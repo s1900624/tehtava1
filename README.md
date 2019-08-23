@@ -32,8 +32,8 @@ setInterval( () => {
 Total time of 'pseudo code' is, for example, 110ms.
 So, total time of 'pseudo code' + new iteration is just 120ms.
 
-setTimeout waits all 'pseudo code' and is implemented after 'delay'.
-setTimeout is implemented  just through delay value.
+setTimeout waits all 'pseudo code' and is implemented after 'delay'.<br/>
+setTimeout is implemented  just through delay value.<br/><br/>
 
 
 So ...
